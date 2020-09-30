@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning everything🤣
-- 📫 How to reach me: [LinkedIn: Bhavika Kulkarni](https://www.linkedin.com/in/bhavika-kulkarni566846171/),[Instagram:bhavika.k222](https://www.instagram.com/bhavika.k222/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: A TV series I've watched all the way through more than once is F.R.I.E.N.D.S
 
@@ -28,9 +27,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<br />
+<br />
 
-<br />
-<br />
+<img align="left" alt="Bhavika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavika022&show_icons=true&hide_border=true" />
 
 [website]: https://bhavika022.github.io/Portfolio/
 [twitter]: https://twitter.com/BhavikaKulkarni
