@@ -4,7 +4,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning everything🤣
-- 📫 How to reach me: [LinkedIn: Bhavika Kulkarni](https://www.linkedin.com/in/bhavika-kulkarni566846171/),[Instagram:bhavika.k222](https://www.instagram.com/bhavika.k222/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: A TV series I've watched all the way through more than once is F.R.I.E.N.D.S
 
