@@ -1,11 +1,9 @@
 ### Hi there,I'm Bhavika 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning everything🤣
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: A TV series I've watched all the way through more than once is F.R.I.E.N.D.S
+- ⚡ Fun fact: A TV series I've watched all the way through more than once is F.R.I.E.N.D.S📺
 
 ### Connect with me:
 
