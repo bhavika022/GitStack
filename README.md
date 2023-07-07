@@ -27,7 +27,6 @@
 <br />
 <br />
 
-<img align="left" alt="Bhavika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhavika022&show_icons=true&hide_border=true" />
 
 [website]: https://bhavika022.github.io/Portfolio/
 [twitter]: https://twitter.com/BhavikaKulkarni
