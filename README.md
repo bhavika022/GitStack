@@ -28,7 +28,7 @@
 <br />
 
 
-[website]: https://bhavika022.github.io/Portfolio/
+[website]: [https://bhavika022.github.io/Portfolio/](https://brilliant-pika-bb707d.netlify.app)
 [twitter]: https://twitter.com/BhavikaKulkarni
 [instagram]: https://www.instagram.com/bhavika.k222/
 [linkedin]: https://www.linkedin.com/in/bhavika-kulkarni-566846171/
